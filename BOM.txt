@@ -1,0 +1,43 @@
+
+Dankzij de inzet van een van mijn collega's heeft hij veel tijd besteed aan het zorgvuldig bestellen van de juiste componenten, en dat voor een ongelooflijk lage prijs van slechts 35 euro.
+
+
+Resistors:
+
+- 18 KΩ
+- 1 MΩ
+- 68 KΩ
+- 5.6 KΩ
+- 10 KΩ
+- 100 Ω
+- 10 MΩ
+- 4.7 KΩ
+
+Inductors:
+
+- L1
+- L2
+
+Capacitors:
+
+- 4700 µF
+- 10 µF
+- 100 nF
+- 100 µF
+- 10 nF
+
+Semiconductors:
+
+- 1N4007
+- Zener
+- 1N14148
+- Bridge
+- BC847C
+- MOSFET-P
+- BC857C
+- DC/DC
+- MCP6002-E/MS
+- Microcontroller
+- Relay
+- IC2 7-segment
+- Encoder

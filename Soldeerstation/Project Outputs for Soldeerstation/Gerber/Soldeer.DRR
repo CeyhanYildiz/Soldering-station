@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Soldeer.PcbDoc   28-4-2023  15:30:14
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Soldeer.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.711mm (28mil)                                           Round             68        PTH        564.97mm (22.24inch)
+T2      0.8mm (31mil)                                             Round             2         PTH        10.00mm (0.39inch)
+T3      1.02mm (40mil)                                            Round             2         PTH        2.54mm (0.10inch)
+T4      1.08mm (43mil)                                            Round             3         PTH        5.10mm (0.20inch)
+T5      1.1mm (43mil)                                             Round             42        PTH        305.04mm (12.01inch)
+T6      1.4mm (55mil)                                             Round             8         PTH        50.42mm (1.99inch)
+T7      3mm (118mil)                                              Round             4         PTH        416.85mm (16.41inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              129
+
+Total Processing Time (hh:mm:ss) : 00:00:00
