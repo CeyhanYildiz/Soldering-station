@@ -1,6 +1,7 @@
 
 Dankzij de inzet van een van mijn collega's heeft hij veel tijd besteed aan het zorgvuldig bestellen van de juiste componenten, en dat voor een ongelooflijk lage prijs van slechts 35 euro.
 
+MEER INFO IN " Componenten.xlsx "
 
 Resistors:
 
@@ -41,3 +42,15 @@ Semiconductors:
 - Relay
 - IC2 7-segment
 - Encoder
+
+
+
+
+De PCB heeft me 32 euro gekost.
+
+
+Ik heb verder niets betaald omdat ik niet bereid was om meer dan 100 euro uit te geven aan dit project. Het printen van de behuizing is niet gelukt omdat ik geen printer tot mijn beschikking had (of ik kon niet gemakkelijk naar de makerspace gaan vanwege ongunstige tijden).
+
+Op een maandag had meneer Hilven het lokaal open gelaten, maar hij had ons minder dan 24 uur van tevoren op de hoogte gesteld. Als hij ons eerder had laten weten, had ik mijn spullen kunnen pakken en kunnen komen.
+
+Helaas is mijn project niet afgerond.
